@@ -1,3 +1,4 @@
+using System.Globalization;
 using System.Text;
 
 namespace Client.Entities
@@ -30,7 +31,7 @@ namespace Client.Entities
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("Number of account: " + Number);
             sb.AppendLine("Holder: " + Holder);
-            sb.AppendLine("Balance: " + Balance);
+            sb.AppendLine("Balance: " + Balance.ToString("F2", CultureInfo.InvariantCulture));
             return sb.ToString();           
         }
     }
