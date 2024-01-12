@@ -1,3 +1,5 @@
+using System.Text;
+
 namespace Client.Entities
 {
     public class Account
@@ -21,7 +23,15 @@ namespace Client.Entities
         }        
         public void Deposit (double amount)
         {
-            
+            Balance += amount;
+        }
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("Number of account: " + Number);
+            sb.AppendLine("Holder: " + Holder);
+            sb.AppendLine("Balance: " + Balance);
+            return sb.ToString();           
         }
     }
 }

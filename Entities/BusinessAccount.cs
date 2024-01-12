@@ -1,7 +1,4 @@
-
-using Client.Entities;
-
-namespace Business.Entities
+namespace Client.Entities
 {
     public class BusinessAccount : Account
     {

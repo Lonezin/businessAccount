@@ -1,0 +1,15 @@
+C:\Users\lonez\Desktop\Garoto de programa\BussinesAccount\bin\Debug\net8.0\BussinesAccount.exe
+C:\Users\lonez\Desktop\Garoto de programa\BussinesAccount\bin\Debug\net8.0\BussinesAccount.deps.json
+C:\Users\lonez\Desktop\Garoto de programa\BussinesAccount\bin\Debug\net8.0\BussinesAccount.runtimeconfig.json
+C:\Users\lonez\Desktop\Garoto de programa\BussinesAccount\bin\Debug\net8.0\BussinesAccount.dll
+C:\Users\lonez\Desktop\Garoto de programa\BussinesAccount\bin\Debug\net8.0\BussinesAccount.pdb
+C:\Users\lonez\Desktop\Garoto de programa\BussinesAccount\obj\Debug\net8.0\BussinesAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lonez\Desktop\Garoto de programa\BussinesAccount\obj\Debug\net8.0\BussinesAccount.AssemblyInfoInputs.cache
+C:\Users\lonez\Desktop\Garoto de programa\BussinesAccount\obj\Debug\net8.0\BussinesAccount.AssemblyInfo.cs
+C:\Users\lonez\Desktop\Garoto de programa\BussinesAccount\obj\Debug\net8.0\BussinesAccount.csproj.CoreCompileInputs.cache
+C:\Users\lonez\Desktop\Garoto de programa\BussinesAccount\obj\Debug\net8.0\BussinesAccount.sourcelink.json
+C:\Users\lonez\Desktop\Garoto de programa\BussinesAccount\obj\Debug\net8.0\BussinesAccount.dll
+C:\Users\lonez\Desktop\Garoto de programa\BussinesAccount\obj\Debug\net8.0\refint\BussinesAccount.dll
+C:\Users\lonez\Desktop\Garoto de programa\BussinesAccount\obj\Debug\net8.0\BussinesAccount.pdb
+C:\Users\lonez\Desktop\Garoto de programa\BussinesAccount\obj\Debug\net8.0\BussinesAccount.genruntimeconfig.cache
+C:\Users\lonez\Desktop\Garoto de programa\BussinesAccount\obj\Debug\net8.0\ref\BussinesAccount.dll
